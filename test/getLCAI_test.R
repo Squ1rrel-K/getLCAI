@@ -1,5 +1,5 @@
 install.packages(
-  "G:\\Coding\\getLcai\\getLCAI_test\\getLCAI_1.0.0.zip",
+  "F:\\Code\\getLCAI\\test\\getLCAI_1.0.0.zip",
   repos = NULL,
   type = "win.binary"
 )
@@ -18,10 +18,11 @@ data(pheno_test)
 #data(pheno_example)
 
 outlist = getlcai(
-  exp = "G:\\Coding\\getLcai\\2\\exp_GSE165843.txt",
-  pheno = "G:\\Coding\\getLcai\\2\\GSE165843_phe.txt",
+  exp = exp_test_repo,
+  pheno = pheno_test_repo,
   control = "shAMPKa",
   experimental = "shCTL",
   type = 'Array',
   plotPCA = TRUE
 )
+
