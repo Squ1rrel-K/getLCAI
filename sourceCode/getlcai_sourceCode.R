@@ -65,7 +65,7 @@
 #' @return a list: the lcai value; mergerd expression matrix; group information;the first three principal components;
 #' @export
 #'
-#' @examples
+#' @examples 
 #' data(exp_example)
 #' data(pheno_example)
 #' outlist = getlcai(exp_example,pheno_example,"Control","experimental",type='Array',plotPCA = TRUE)
