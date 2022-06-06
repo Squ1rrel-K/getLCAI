@@ -7,10 +7,10 @@ setwd("E:/Coding/getLCAI/test")
 
 # step 2: configure 5 necessary values
 # relative exp path and pheno path
-exp_test_path = "./2/exp_GSE165843.txt"
-pheno_test_path = "./2/GSE165843_phe.txt"
-control_type = "Control"
-experimental_type = "experimental"
+exp_test_path = "./test_data/exp_GSE165843.txt"
+pheno_test_path = "./test_data/GSE165843_phe.txt"
+control_type = "shAMPKa"
+experimental_type = "shCTL"
 data_type = "Array" # data_type can only be 'Array' or 'RNA-seq'
 
 install.packages("./getLCAI_1.0.0.zip",
