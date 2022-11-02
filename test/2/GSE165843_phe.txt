@@ -1,0 +1,13 @@
+sample	group
+sha1_S3..Raw.	shAMPKa
+sha1_S4..Raw.	shAMPKa
+sha1_S5..Raw.	shAMPKa
+sha1.a2_S9..Raw.	shAMPKa
+sha1.a2_S10..Raw.	shAMPKa
+sha1.a2_S11..Raw.	shAMPKa
+sha2_S6..Raw.	shAMPKa
+sha2_S7..Raw.	shAMPKa
+sha2_S8..Raw.	shAMPKa
+shCTL_S0..Raw.	shCTL
+shCTL_S1..Raw.	shCTL
+shCTL_S2..Raw.	shCTL
