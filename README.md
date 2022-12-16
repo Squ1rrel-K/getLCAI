@@ -1,4 +1,4 @@
-# About GetLCAI
+# About GetLCAi
 
 getLCAi: Visualized qualitative and quantitative analysis of lung cancer aggressive index based on mRNA expression profile
 
