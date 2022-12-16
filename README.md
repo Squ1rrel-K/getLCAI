@@ -2,7 +2,7 @@
 
 getLCAi: Visualized qualitative and quantitative analysis of lung cancer aggressive index based on mRNA expression profile
 
-**Kongyongqiang**
+**Yong-Qiang Kong, Xiang-Qin Kong, Bo Wang, Yi-Liang Wei**
 
 **2022.04.09**
 
